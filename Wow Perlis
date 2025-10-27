@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hotel di Perlis</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background: url('https://images.unsplash.com/photo-1542314831-068cd1dbfeeb') no-repeat center center/cover;
+      color: white;
+      text-align: center;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      position: relative;
+    }
+
+    .overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0,0,0,0.5);
+      z-index: -1;
+    }
+
+    h1 {
+      font-size: 48px;
+      margin-bottom: 10px;
+    }
+
+    p {
+      font-size: 18px;
+      margin-bottom: 30px;
+    }
+
+    .affiliate-note {
+      font-size: 14px;
+      color: #ffebc6;
+      background: rgba(0,0,0,0.5);
+      padding: 10px 15px;
+      border-radius: 10px;
+      margin-bottom: 25px;
+      display: inline-block;
+    }
+
+    .buttons {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+    }
+
+    .btn {
+      text-decoration: none;
+      padding: 14px 24px;
+      border-radius: 8px;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+
+    .btn-booking { background: #003580; color: white; }
+    .btn-agoda { background: #ff5a5f; color: white; }
+    .btn-trivago { background: #0091ea; color: white; }
+    .btn-trip { background: #007a6d; color: white; }
+    .btn-traveloka { background: #1ba0e2; color: white; }
+
+    .btn:hover {
+      opacity: 0.8;
+      transform: scale(1.05);
+    }
+
+    footer {
+      position: absolute;
+      bottom: 10px;
+      font-size: 14px;
+      color: #ddd;
+    }
+
+    @media(max-width:600px){
+      h1 { font-size:32px; }
+      p { font-size:16px; }
+      .btn { font-size:16px; padding:12px 20px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="overlay"></div>
+
+  <h1>Hotel di Perlis</h1>
+  <p>Tempah hotel di Perlis dengan mudah.</p>
+
+  <div class="alifroney91@gmail.com">
+    💡 <b>Tip:</b> <code></code>
+  </div>
+
+  <div class="buttons">
+    <a href="https://www.booking.com/region/my/perlis.ms.html?aid=alifroney91@gmail.com" class="btn btn-booking" target="_blank">Booking.com</a>
+    <a href="https://www.agoda.com/ms-my/pages/agoda/default/DestinationSearchResult.aspx?area=281036&cid=alifroney91@gmail.com" class="btn btn-agoda" target="_blank">Agoda</a>
+    <a href="https://www.trivago.com.my/ms/srl?themeId=401&search=200-55482&partnerId=alifroney91@gmail.com" class="btn btn-trivago" target="_blank">Trivago</a>
+    <a href="https://my.trip.com/hotels/perlis-hotels-list-66/?Allianceid=alifroney91@gmail.com" class="btn btn-trip" target="_blank">Trip.com</a>
+    <a href="https://www.traveloka.com/ms-my/hotel/malaysia/region/perlis-108033?utm_source=alifroney91@gmail.com" class="btn btn-traveloka" target="_blank">Traveloka</a>
+  </div>
+
+  <footer>© 2025 Hotel Perlis | Laman Affiliate Tempahan Hotel</footer>
+</body>
+</html><!DOCTYPE html>
+<html lang="ms">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hotel di Perlis</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background: url('https://images.unsplash.com/photo-1542314831-068cd1dbfeeb') no-repeat center center/cover;
+      color: white;
+      text-align: center;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      position: relative;
+    }
+
+    .overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0,0,0,0.5);
+      z-index: -1;
+    }
+
+    h1 {
+      font-size: 48px;
+      margin-bottom: 10px;
+    }
+
+    p {
+      font-size: 18px;
+      margin-bottom: 30px;
+    }
+
+    .affiliate-note {
+      font-size: 14px;
+      color: #ffebc6;
+      background: rgba(0,0,0,0.5);
+      padding: 10px 15px;
+      border-radius: 10px;
+      margin-bottom: 25px;
+      display: inline-block;
+    }
+
+    .buttons {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+    }
+
+    .btn {
+      text-decoration: none;
+      padding: 14px 24px;
+      border-radius: 8px;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+
+    .btn-booking { background: #003580; color: white; }
+    .btn-agoda { background: #ff5a5f; color: white; }
+    .btn-trivago { background: #0091ea; color: white; }
+    .btn-trip { background: #007a6d; color: white; }
+    .btn-traveloka { background: #1ba0e2; color: white; }
+
+    .btn:hover {
+      opacity: 0.8;
+      transform: scale(1.05);
+    }
+
+    footer {
+      position: absolute;
+      bottom: 10px;
+      font-size: 14px;
+      color: #ddd;
+    }
+
+    @media(max-width:600px){
+      h1 { font-size:32px; }
+      p { font-size:16px; }
+      .btn { font-size:16px; padding:12px 20px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="overlay"></div>
+
+  <h1>Hotel di Perlis</h1>
+  <p>Tempah hotel di Perlis dengan mudah.</p>
+
+  <div class="alifroney91@gmail.com">
+    💡 <b>Tip:</b> <code></code>
+  </div>
+
+  <div class="buttons">
+    <a href="https://www.booking.com/region/my/perlis.ms.html?aid=alifroney91@gmail.com" class="btn btn-booking" target="_blank">Booking.com</a>
+    <a href="https://www.agoda.com/ms-my/pages/agoda/default/DestinationSearchResult.aspx?area=281036&cid=alifroney91@gmail.com" class="btn btn-agoda" target="_blank">Agoda</a>
+    <a href="https://www.trivago.com.my/ms/srl?themeId=401&search=200-55482&partnerId=alifroney91@gmail.com" class="btn btn-trivago" target="_blank">Trivago</a>
+    <a href="https://my.trip.com/hotels/perlis-hotels-list-66/?Allianceid=alifroney91@gmail.com" class="btn btn-trip" target="_blank">Trip.com</a>
+    <a href="https://www.traveloka.com/ms-my/hotel/malaysia/region/perlis-108033?utm_source=alifroney91@gmail.com" class="btn btn-traveloka" target="_blank">Traveloka</a>
+  </div>
+
+  <footer>© 2025 Hotel Perlis | Laman Affiliate Tempahan Hotel</footer>
+</body>
+</html>

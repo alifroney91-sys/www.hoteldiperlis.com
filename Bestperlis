@@ -1,9 +1,9 @@
-<!doctype perlis.html>
+<!doctype html>
 <html lang="ms">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Hotel Perlis </title>
+  <title>Hotel di Perlis</title>
   <style>
     body {
       margin:0;
@@ -103,22 +103,21 @@
   </div>
 
   <div class="buttons">
-    <a href="https://www.booking.com/region/my/perlis.ms.html?aid=YOUR_ID_HERE" class="btn btn-booking">Booking.com</a>
-    <a href="https://www.agoda.com/ms-my/pages/agoda/default/DestinationSearchResult.aspx?area=281036&cid=YOUR_ID_HERE" class="btn btn-agoda">Agoda</a>
-    <a href="https://www.trivago.com.my/ms/srl?themeId=401&search=200-55482&partnerId=YOUR_ID_HERE" class="btn btn-trivago">Trivago</a>
-    <a href="https://my.trip.com/hotels/perlis-hotels-list-66/?Allianceid=YOUR_ID_HERE" class="btn btn-trip">Trip.com</a>
-    <a href="https://www.traveloka.com/ms-my/hotel/malaysia/region/perlis-108033?utm_source=YOUR_ID_HERE" class="btn btn-traveloka">Traveloka</a>
+    <a href="https://www.booking.com/region/my/perlis.ms.html?aid=YOUR_AFFILIATE_ID" class="btn btn-booking" rel="noopener noreferrer" target="_blank">Booking.com</a>
+    <a href="https://www.agoda.com/ms-my/pages/agoda/default/DestinationSearchResult.aspx?area=281036&cid=YOUR_AFFILIATE_ID" class="btn btn-agoda" rel="noopener noreferrer" target="_blank">Agoda</a>
+    <a href="https://www.trivago.com.my/ms/srl?themeId=401&search=200-55482&partnerId=YOUR_AFFILIATE_ID" class="btn btn-trivago" rel="noopener noreferrer" target="_blank">Trivago</a>
+    <a href="https://my.trip.com/hotels/perlis-hotels-list-66/?Allianceid=YOUR_AFFILIATE_ID" class="btn btn-trip" rel="noopener noreferrer" target="_blank">Trip.com</a>
+    <a href="https://www.traveloka.com/ms-my/hotel/malaysia/region/perlis-108033?utm_source=YOUR_AFFILIATE_ID" class="btn btn-traveloka" rel="noopener noreferrer" target="_blank">Traveloka</a>
   </div>
 
   <footer>© 2025 Hotel Perlis | Laman Affiliate Tempahan Hotel</footer>
 </body>
-</html>
-<!doctype perlis.html>
+</html><!doctype html>
 <html lang="ms">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Hotel Perlis </title>
+  <title>Hotel Perlis</title>
   <style>
     body {
       margin:0;
@@ -218,11 +217,11 @@
   </div>
 
   <div class="buttons">
-    <a href="https://www.booking.com/region/my/perlis.ms.html?aid=YOUR_ID_HERE" class="btn btn-booking">Booking.com</a>
-    <a href="https://www.agoda.com/ms-my/pages/agoda/default/DestinationSearchResult.aspx?area=281036&cid=YOUR_ID_HERE" class="btn btn-agoda">Agoda</a>
-    <a href="https://www.trivago.com.my/ms/srl?themeId=401&search=200-55482&partnerId=YOUR_ID_HERE" class="btn btn-trivago">Trivago</a>
-    <a href="https://my.trip.com/hotels/perlis-hotels-list-66/?Allianceid=YOUR_ID_HERE" class="btn btn-trip">Trip.com</a>
-    <a href="https://www.traveloka.com/ms-my/hotel/malaysia/region/perlis-108033?utm_source=YOUR_ID_HERE" class="btn btn-traveloka">Traveloka</a>
+    <a href="https://www.booking.com/region/my/perlis.ms.html?aid=YOUR_AFFILIATE_ID" class="btn btn-booking" rel="noopener noreferrer" target="_blank">Booking.com</a>
+    <a href="https://www.agoda.com/ms-my/pages/agoda/default/DestinationSearchResult.aspx?area=281036&cid=YOUR_AFFILIATE_ID" class="btn btn-agoda" rel="noopener noreferrer" target="_blank">Agoda</a>
+    <a href="https://www.trivago.com.my/ms/srl?themeId=401&search=200-55482&partnerId=YOUR_AFFILIATE_ID" class="btn btn-trivago" rel="noopener noreferrer" target="_blank">Trivago</a>
+    <a href="https://my.trip.com/hotels/perlis-hotels-list-66/?Allianceid=YOUR_AFFILIATE_ID" class="btn btn-trip" rel="noopener noreferrer" target="_blank">Trip.com</a>
+    <a href="https://www.traveloka.com/ms-my/hotel/malaysia/region/perlis-108033?utm_source=YOUR_AFFILIATE_ID" class="btn btn-traveloka" rel="noopener noreferrer" target="_blank">Traveloka</a>
   </div>
 
   <footer>© 2025 Hotel Perlis | Laman Affiliate Tempahan Hotel</footer>
